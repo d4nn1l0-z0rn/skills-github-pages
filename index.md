@@ -1,4 +1,4 @@
 ---
-title: Bem-vindo!
+title: Bem-vindo ao blog!
 ---
 
